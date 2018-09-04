@@ -13,7 +13,7 @@
         display: flex;
         flex-wrap: wrap;
         margin-bottom: 15px;
-
+        justify-content: center;
         & li {
             color: var(--paletteColor7);
             text-decoration: none;
